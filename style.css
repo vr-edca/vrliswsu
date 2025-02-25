@@ -21,7 +21,7 @@
     background-size: cover;
     background-position: center;
     padding-bottom: 90px;
-    min-height:80vh;
+    min-height:100vh;
 }
 
 .vr-edu-sub-heading {
@@ -96,6 +96,6 @@
     color: black;
     border-radius: 10px;
     font-family: "roboto";
-    font-size:25px;
+    font-size:20px;
     padding:10px;
 }
