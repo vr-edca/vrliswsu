@@ -17,11 +17,11 @@
 
 .vr-edu-main-container {
 
-    background-image: url("https://res.cloudinary.com/dumwqoi9n/image/upload/v1740284355/Screenshot_2025-02-23-08-39-31-73_6012fa4d4ddec268fc5c7112cbb265e7_jmbzwn.jpg");
+    background-image: url("https://res-console.cloudinary.com/dywbhossm/thumbnails/v1/image/upload/v1740496369/SU1HXzIwMjUwMjI1XzIwNDE0NF9pajhsbWs=/drilldown");
     background-size: cover;
     background-position: center;
     padding-bottom: 90px;
-    min-height:200vh;
+    min-height:100vh;
 }
 
 .vr-edu-sub-heading {
