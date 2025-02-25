@@ -1,0 +1,97 @@
+.vr-edu-logo-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    text-align: left;
+    margin-right: auto;
+}
+
+.vr-edu-main-heading {
+    font-family: "roboto";
+    font-size: 25px;
+    font-weight: 500;
+    padding-top: 10px;
+    padding-left: 10px;
+    width: 180px;
+}
+
+.vr-edu-main-container {
+
+    background-image: url("https://res.cloudinary.com/dumwqoi9n/image/upload/v1740284355/Screenshot_2025-02-23-08-39-31-73_6012fa4d4ddec268fc5c7112cbb265e7_jmbzwn.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 90px;
+    min-height:100vh;
+}
+
+.vr-edu-sub-heading {
+    font-weight: bold;
+    font-family: "roboto";
+    color: #ffffff;
+}
+
+.vr-edu-sub-heading-container {
+    padding: 20px;
+
+
+}
+
+.combined-container {
+    background-image: radial-gradient(#3f9bfc, #94f4f7);
+    background-size: cover;
+    width: 100%;
+}
+
+.vr-edu-frames-container {
+    background-image: radial-gradient(#0df7ff, #fae38c);
+    background-size: cover;
+    padding: 30px;
+    width: 40vw;
+    min-height:60vh;
+    border-radius: 20px;
+    margin-left: 35px;
+}
+
+.classroom-image {
+    height: 130px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.classroom-paragraph {
+    color: black;
+    text-align: center;
+}
+
+.vr-edu-classroom-container {
+    background-color: white;
+    padding: 10px;
+    border-radius: 15px;
+    text-align:center;
+    margin-bottom: 40px;
+}
+
+.school-image {
+    height: 130px;
+    width: 130px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.more-frames-container {
+    text-align: right;
+}
+
+.icon {
+    font-size: 5px;
+    color: white;
+}
+
+.button {
+    width: 130px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    font-family: "roboto";
+}
