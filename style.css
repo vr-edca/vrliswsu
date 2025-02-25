@@ -21,7 +21,8 @@
     background-size: cover;
     background-position: center;
     padding-bottom: 30px;
-    min-height:100vh;
+    height:100%;
+    width:100%;
 }
 
 .vr-edu-sub-heading {
