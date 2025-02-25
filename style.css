@@ -21,7 +21,7 @@
     background-size: cover;
     background-position: center;
     padding-bottom: 90px;
-    min-height:100vh;
+    min-height:80vh;
 }
 
 .vr-edu-sub-heading {
@@ -61,7 +61,8 @@
 .classroom-paragraph {
     color: black;
     text-align: center;
-    font-size:30px;
+    font-size:25px;
+    font-family:"roboto";
 }
 
 .vr-edu-classroom-container {
@@ -89,7 +90,7 @@
 }
 
 .button {
-    width: 140px;
+    width: 150px;
     height: 70px;
     background-color: white;
     color: black;
