@@ -19,10 +19,10 @@
 
     background-image: url("https://res-console.cloudinary.com/dywbhossm/thumbnails/v1/image/upload/v1740496369/SU1HXzIwMjUwMjI1XzIwNDE0NF9pajhsbWs=/drilldown");
     background-size: cover;
-   background-position:center;
+    background-position:center;
     padding-bottom: 30px;
    
-    min-height:130vh;
+    height:120vh;
     width:100%;
     
 }
